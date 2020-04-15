@@ -1,0 +1,285 @@
+{
+  "app_name": "Cashbuzz",
+  "bank_account_details": {
+    "account_deleted": "Bank account removed",
+    "account_deletion_failed": "Could not remove bank account right now",
+    "account_status_not_found": "Bank account not found",
+    "account_status_out_of_sync": "Please resync",
+    "account_status_sync_failed": "Sync failed",
+    "account_status_sync_in_progress": "Sync in progress",
+    "account_status_up_to_date": "Up to date",
+    "BIC": "BIC",
+    "connection_type": "Connection Type",
+    "delete_confirmation": "Are you sure you want to remove this bank account?",
+    "edit_button": "Edit",
+    "IBAN": "IBAN",
+    "internal_error": "Ooops. Something is wrong.",
+    "last_sync_attempt": "Last sync attempt",
+    "last_successful_sync": "Last successful sync",
+    "reconnect_failed": "Ooops. We could not link account right now.",
+    "reconnect": "Resync",
+    "remove_button": "Remove bank account",
+    "status": "Status",
+    "title": "Bank account details",
+    "web": "Web"
+  },
+  "bank_import": {
+    "info": "After logging in you will be forwarded to the next step automatically"
+  },
+  "bank_information_confirmation": {
+    "message": "From now on you can enjoy the benefits!",
+    "title": "Confirmation"
+  },
+  "cashbacks": {
+    "cashback": "%{amount} Cashback",
+    "cashback_approved": "Cashback approved",
+    "cashback_claimed": "Cashback claimed",
+    "cashback_error": "Cashback error",
+    "cashback_in_payout": "Cashback in payout",
+    "cashback_limit_exceeded": "Cashback limit exceeded",
+    "cashback_new": "New cashback",
+    "cashback_payment_scheduled": "Payment scheduled",
+    "cashback_payout_error": "Payout error",
+    "cashback_rejected_by_cashbuzz": "Cashback rejected",
+    "cashback_rejected_by_partner": "Cashback rejected by partner",
+    "cashback_sucessful": "Cashback sucessful",
+    "details": "Details",
+    "details_and_redeem": "Details and redeem",
+    "details_total": "Total Cashback",
+    "expiration_date": "Expiration",
+    "privacy_policy": "Privacy Policy",
+    "redeem": "Redeem",
+    "redeemed": "Cashback redeemed!",
+    "redeemed_on": "Reedemed on %{date}",
+    "terms_of_reward": "By ticking this box, you agree to the https://TermsOfUse and https://PrivacyPolicy",
+    "terms_of_use": "Terms of Use",
+    "redeem_generic_error": "Could not redeem cashback right now"
+  },
+  "code": {
+    "code_not_found": "Code not valid",
+    "code": "Code",
+    "description": "If you have received a code, you can enter it here",
+    "submit": "Submit",
+    "submitted": "Code successfully submitted. Thank you!",
+    "title": "Enter code"
+  },
+  "common": {
+    "accept_tospp": "Cashbuzz Terms of Use",
+    "app_version": "Version: ",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "done": "Done",
+    "internal_error": "Ooops. Something is wrong.",
+    "na": "N/A",
+    "resync_needed_warning": "Please resync your accounts: {{accountNames}}",
+    "verify_account": "Verify account"
+  },
+  "edit_profile": {
+    "account_delete": "Your user account is deleted",
+    "account_deletion_failed": "Could not delete your user account right now",
+    "address_corrected": "We fixed a typo in the address. Please verify it.",
+    "address_invalid": "This is not a valid address.",
+    "address_ok": "Yes, this is my address",
+    "address": "Address",
+    "birthday": "Birthday",
+    "change_email_prompt": "Please enter your new e-mail address",
+    "change_email_title": "Change e-mail address",
+    "change_password_prompt": "Please enter your new password",
+    "change_password_title": "Change password",
+    "delete_account": "Delete user account",
+    "delete_confirmation": "This action cannot be reverted. Enter your password to confirm.",
+    "delete_dialog_title": "Are you sure you want to delete your user account?",
+    "edit_address": "Change your address",
+    "edit_birthdate": "Change your birth date",
+    "edit_failed": "Could not edit your profile right now",
+    "edit_name": "Change your name",
+    "edit": "Edit",
+    "email_placeholder": "e-mail",
+    "first_name": "First name",
+    "kyc": "Verify Identity",
+    "last_name": "Last name",
+    "name": "Name",
+    "need_help": "Need help?",
+    "old_password_placeholder": "Current password",
+    "password_change_failed": "Could not change your password right now",
+    "password_confirm_placeholder": "Confirm new password",
+    "password_incorrect": "Password is incorrect",
+    "password_placeholder": "Password",
+    "password": "Password",
+    "provide_old_password": "Please enter your current password",
+    "provide_password": "Please confirm with your password",
+    "save": "Save",
+    "title": "Edit profile",
+    "verify": "Verify"
+  },
+  "email_confirmation": {
+    "code_placeholder": "Identification code",
+    "continue_button": "Continue",
+    "email_sent": "E-mail sent",
+    "email_sending_error": "Ooops. We could not send you an e-mail",
+    "error": "Ooops. We can't verify your e-mail right now",
+    "invalid_code": "This code does not look correct",
+    "page_title": "E-mail confirmation",
+    "resend": "Resend e-mail",
+    "text": "Please enter your identification code"
+  },
+  "error": {
+    "no_reception": "No connection - please try again"
+  },
+  "exit_alert": {
+    "cancel": "Cancel",
+    "ok": "OK",
+    "text": "Do you want to leave Cashbuzz?",
+    "title": "Cashbuzz"
+  },
+  "fill_profile": {
+    "city": "City",
+    "country": "Country",
+    "date_of_birth": "Date of birth",
+    "house_number": "House number",
+    "save": "Save",
+    "street": "Street",
+    "title": "Before you can proceed, we need to know a few things about you.",
+    "zip": "ZIP code"
+  },
+  "forgot_password_code": {
+    "code_placeholder": "Identification code",
+    "continue_button": "Continue",
+    "internal_error": "Ooops. Something is wrong.",
+    "page_title": "Forgot password",
+    "resend_button": "Resend",
+    "text": "Please enter your identification code"
+  },
+  "forgot_password_email": {
+    "continue_button": "Continue",
+    "email_placeholder": "Email",
+    "page_title": "Forgot password",
+    "text": "Please enter your email address that you have used to sign up you account"
+  },
+  "forgot_password_new_password": {
+    "page_title": "Forgot password",
+    "text": "Please enter a new password"
+  },
+  "home": {
+    "empty_message": "Please link your bank account in order to receive cashbacks after your purchase at one of our loyalty partners.",
+    "link_account": "Link bank account",
+    "no_new_cashbacks": "You don't have any cashbacks yet.",
+    "no_redeemed_cashbacks": "You have not yet claimed any benefits!",
+    "tab_new_cashbacks": "New Rewards",
+    "tab_redeemed_cashbacks": "Redeemed",
+    "thank_you": "Thank you for linking your bank account. After your purchase at one of our loyalty partners, you will receive cashbacks."
+  },
+  "link_account": {
+    "access_automatic": "Automatic",
+    "access_standard": "Enforce X2A",
+    "access_alternative": "Enforce FinTS (needs manual sync)",
+    "advanced_options": "Options for account access",
+    "bic": "BIC: ",
+    "blz": "BLZ: ",
+    "connection_failure": "We could not link your bank account using this method",
+    "no_accounts_linked": "If you want to enjoy the benefits, you need to link your bank account.",
+    "prompt_message": "Please enter your bank name, BIC, BIZ or an other bank code",
+    "search_prompt": "Search for banks...",
+    "select_message": "Please select from the search results",
+    "select": "Select",
+    "title": "Link bank account"
+  },
+  "login": {
+    "email_placeholder": "Email",
+    "forget_password_button": "Forgot password?",
+    "generic_error": "Could not login right now",
+    "login_button": "Login",
+    "no_account_text": "Don't have an user account?",
+    "page_title": "Login",
+    "password_placeholder": "Password",
+    "remember_me": "Remember me",
+    "sign_up_button": "Sign up"
+  },
+  "manage_bank_account": {
+    "edit_button": "Details",
+    "empty": "You have no linked accounts yet",
+    "new_bank_button": "Link new bank account",
+    "title": "Bank accounts",
+    "try_again": "Try again"
+  },
+  "menu": {
+    "overview": "Overview",
+    "cashbacks": "Cashbacks",
+    "new_bank_connection": "Add bank connection",
+    "existing_bank_connection": "Bank connections",
+    "transactions": "Transactions",
+    "settings": "Profile & Settings",
+    "faq": "FAQ",
+    "log_out": "Log out"
+  },
+  "navigation": {
+    "code": "Enter code",
+    "credits": "Credits",
+    "faq": "FAQ",
+    "imprint": "Imprint",
+    "logout": "Logout",
+    "privacy": "Privacy Policy",
+    "profile": "Edit profile",
+    "support": "Support",
+    "terms": "Terms of Use"
+  },
+  "password": {
+    "bad": "Password insufficient",
+    "basic": "Basic password security",
+    "good": "Good password security",
+    "high": "High password security"
+  },
+  "sign_up": {
+    "checkbox_text": "By ticking this box, you agree to the https://TermsOfUse and https://PrivacyPolicy",
+    "email_invalid": "E-mail should contain '@'",
+    "email_placeholder": "Email",
+    "generic_error": "Could not sign up right now",
+    "get_started_button": "Get started",
+    "login_button": "Login",
+    "page_title": "Sign up",
+    "password_too_easy": "The password is insecure! Please use special characters, numbers or more characters!",
+    "passwords_dont_match": "Passwords don't match",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_use": "Terms of Use"
+  },
+  "terms": {
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "transactions": {
+    "fallback_account_name": "Bank Account",
+    "title": "Transactions",
+    "empty": "Transactions list is empty"
+  },
+  "transaction_details": {
+    "account_name": "Account name",
+    "amount": "Amount",
+    "booking_date": "Booking date",
+    "counterpart_iban": "Counterpart IBAN",
+    "counterpart_name": "Counterpart name",
+    "mandate_reference": "Mandate Reference",
+    "purpose": "Purpose",
+    "title": "Transaction Details"
+  },
+  "video_ident": {
+    "error": "Ooops. We can't perform identification right now."
+  },
+  "walkthrough": {
+    "get_started": "Get started",
+    "messagePage1": "Get cashbacks and other benefits for your purchases and trades at partners like HypoVereeinsbank onemarkets",
+    "messagePage2": "Benefits are displayed automatically and can be claimed with a simple click",
+    "messagePage3": "We adhere to highest data security and protection standards",
+    "titlePage1": "Cashback and\nother benefits",
+    "titlePage2": "Fast\nand easy",
+    "titlePage3": "Your data\nare secure"
+  },
+  "vouchers": {
+    "copy_code": "Copy voucher code",
+    "copy_code_and_redeem": "Copy voucher code and redeem it",
+    "details": "Details",
+    "discount": "Discount",
+    "redeem_dialog_title": "Redeem the voucher",
+    "redeem": "Redeem",
+    "voucher_code_is": "Voucher code is\n{{code}}\n\n(Copy code and paste it on shop website)"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "app_name": "Cashbuzz",
+  "bank_account_details": {
+    "account_deleted": "Bankkonto entfernt",
+    "account_deletion_failed": "Bankkonto konnte nicht entfernt werden",
+    "account_status_not_found": "Bankkonto nicht gefunden",
+    "account_status_out_of_sync": "Bitte neu abgleichen",
+    "account_status_sync_failed": "Abgleich fehlgeschlagen",
+    "account_status_sync_in_progress": "Abgleich lÃÂ¤uft",
+    "account_status_up_to_date": "Aktuell",
+    "BIC": "BIC",
+    "connection_type": "Verbindungstyp",
+    "delete_confirmation": "Dieses Bankkonto wirklich entfernen?",
+    "edit_button": "Bearbeiten",
+    "IBAN": "IBAN",
+    "internal_error": "Oha, etwas ist schiefgegangen.",
+    "last_sync_attempt": "Letzter Abgleichversuch",
+    "last_successful_sync": "Letzter erfolgreicher Abgleich",
+    "reconnect_failed": "Oha, wir konnten das Bankkonto nicht neu abgleichen",
+    "reconnect": "Neu abgleichen",
+    "remove_button": "Bankkonto entfernen",
+    "status": "Status",
+    "title": "Bankkontodetails",
+    "web": "Web"
+  },
+  "bank_import": {
+    "info": "Nach dem Einloggen werden Sie automatisch zum nÃÂ¤chsten Schritt geleitet"
+  },
+  "bank_information_confirmation": {
+    "message": "Ab jetzt kommen Sie in den Genuss von Vorteilen!",
+    "title": "BestÃÂ¤tigung"
+  },
+  "cashbacks": {
+    "cashback": "%{amount} Cashback",
+    "cashback_approved": "Cashback genehmigt",
+    "cashback_claimed": "Cashback eingelÃÂ¶st",
+    "cashback_error": "Cashback-Fehler",
+    "cashback_in_payout": "Zahlung gestartet",
+    "cashback_limit_exceeded": "Cashback-Limit ÃÂ¼berschritten",
+    "cashback_new": "Neuer Cashback",
+    "cashback_payment_scheduled": "Zahlung lÃÂ¤uft",
+    "cashback_payout_error": "Zahlungsfehler",
+    "cashback_rejected_by_cashbuzz": "Cashback verweigert",
+    "cashback_rejected_by_partner": "Cashback von Partner verweigert",
+    "cashback_sucessful": "Cashback erfolgreich",
+    "details": "Details",
+    "details_and_redeem": "Details und einlÃÂ¶sen",
+    "details_total": "Cashback gesamt",
+    "expiration_date": "Ablaufdatum",
+    "privacy_policy": "Datenschutzbestimmungen",
+    "redeem": "EinlÃÂ¶sen",
+    "redeemed": "Cashback eingelÃÂ¶st!",
+    "redeemed_on": "Am %{date} eingelÃÂ¶st",
+    "terms_of_reward": "Durch das Setzen des HÃÂ¤kchens bestÃÂ¤tigen Sie die https://TermsOfUse und https://PrivacyPolicy",
+    "terms_of_use": "AGB",
+    "redeem_generic_error": "Konnte Cashback nicht einlÃÂ¶sen"
+  },
+  "code": {
+    "code_not_found": "Code nicht gÃÂ¼ltig",
+    "code": "Code",
+    "description": "Wenn Sie einen Code bekommen haben, kÃÂ¶nnen Sie ihn hier eintragen",
+    "submit": "Absenden",
+    "submitted": "Code erfolgreich abgesendet. Vielen Dank!",
+    "title": "Code eingeben"
+  },
+  "common": {
+    "accept_tospp": "Cashbuzz AGB",
+    "app_version": "Version: ",
+    "cancel": "Abbrechen",
+    "delete": "LÃÂ¶schen",
+    "done": "Fertig",
+    "internal_error": "Oha, etwas ist schiefgegangen.",
+    "na": "N/A",
+    "resync_needed_warning": "Bitte Bankkonten neu abgleichen: {{accountNames}}",
+    "verify_account": "Nutzerkonto verifizieren"
+  },
+  "edit_profile": {
+    "account_delete": "Ihr Nutzerkonto ist gelÃÂ¶scht",
+    "account_deletion_failed": "Ihr Nutzerkonto konnte nicht gelÃÂ¶scht werden",
+    "address_corrected": "Wir haben einen Tippfehler in der Adresse behoben. Bitte ÃÂ¼berprÃÂ¼fen Sie dies.",
+    "address_invalid": "Dies ist keine gÃÂ¼ltige Adresse.",
+    "address_ok": "Ja, das ist meine Adresse.",
+    "address": "Adresse",
+    "birthday": "Geburtsdatum",
+    "change_email_prompt": "Bitte neue Emailadresse eingeben",
+    "change_email_title": "Emailadresse ÃÂ¤ndern",
+    "change_password_prompt": "Bitte neues Passwort eingeben",
+    "change_password_title": "Passwort ÃÂ¤ndern",
+    "delete_account": "Nutzerkonto lÃÂ¶schen",
+    "delete_confirmation": "Dies kann nicht rÃÂ¼ckgÃÂ¤ngig gemacht werden. Bitte geben Sie ihr Passwort zur BestÃÂ¤tigung ein.",
+    "delete_dialog_title": "Sind Sie sicher, dass Sie Ihr Nutzerkonto lÃÂ¶schen wollen?",
+    "edit_address": "Adresse ÃÂ¤ndern",
+    "edit_birthdate": "Geburtsdatum ÃÂ¤ndern",
+    "edit_failed": "Ihr Profil konnte nicht bearbeitet werden",
+    "edit_name": "Name ÃÂ¤ndern",
+    "edit": "Bearbeiten",
+    "email_placeholder": "Email",
+    "first_name": "Vorname",
+    "kyc": "IdentitÃÂ¤t verifizieren",
+    "last_name": "Nachname",
+    "name": "Name",
+    "need_help": "Hilfe benÃÂ¶tigt?",
+    "old_password_placeholder": "Aktuelles Password",
+    "password_change_failed": "Ihr Passwort konnte nicht geÃÂ¤ndert werden",
+    "password_confirm_placeholder": "Neues Passwort bestÃ¤tigen",
+    "password_incorrect": "Falsches Passwort",
+    "password_placeholder": "Passwort",
+    "password": "Passwort",
+    "provide_old_password": "Altes Passwort eingeben",
+    "provide_password": "Bitte mit Passwort bestÃÂ¤tigen",
+    "save": "Speichern",
+    "title": "Profil bearbeiten",
+    "verify": "Verifizieren"
+  },
+  "email_confirmation": {
+    "code_placeholder": "Identifikations-Code",
+    "continue_button": "Weiter",
+    "error": "Oha, wir kÃÂ¶nnen Ihre Email derzeit nicht ÃÂ¼berprÃÂ¼fen.",
+    "email_sent": "Email versandt",
+    "email_sending_error": "Oha, wir konnten Ihnen keine Email senden.",
+    "invalid_code": "Dieser Code scheint nicht richtig zu sein.",
+    "page_title": "Email-BestÃÂ¤tigung",
+    "resend": "Email noch einmal senden",
+    "text": "Bitte Identifikations-Code eingeben"
+  },
+  "error": {
+    "no_reception": "Keine Verbindung - noch einmal versuchen"
+  },
+  "exit_alert": {
+    "cancel": "Abbrechen",
+    "ok": "OK",
+    "text": "Wollen Sie Cashbuzz verlassen?",
+    "title": "Cashbuzz"
+  },
+  "fill_profile": {
+    "city": "Stadt",
+    "country": "Land",
+    "date_of_birth": "Geburtsdatum",
+    "house_number": "Hausnummer",
+    "save": "Speichern",
+    "street": "StraÃÅ¸e",
+    "title": "Bevor Sie fortfahren kÃÂ¶nnen, mÃÂ¼ssen wir ein paar Dinge ÃÂ¼ber Sie wissen.",
+    "zip": "PLZ"
+  },
+  "forgot_password_code": {
+    "code_placeholder": "Identifikations-Code",
+    "continue_button": "Weiter",
+    "internal_error": "Oha, etwas ist schiefgegangen.",
+    "page_title": "Passwort vergessen",
+    "resend_button": "Noch einmal senden",
+    "text": "Bitte Identifikations-Code eingeben"
+  },
+  "forgot_password_email": {
+    "continue_button": "Weiter",
+    "email_placeholder": "Email",
+    "page_title": "Passwort vergessen",
+    "text": "Bitte Emailadresse fÃ¼r dieses Nutzerkonto eingeben"
+  },
+  "forgot_password_new_password": {
+    "page_title": "Passwort vergessen",
+    "text": "Bitte neues Passwort eingeben"
+  },
+  "home": {
+    "empty_message": "Bitte verknÃÂ¼pfen Sie Ihr Bankkonto, um Cashbacks unserer Partner zu erhalten.",
+    "link_account": "Bankkonto verknÃÂ¼pfen",
+    "no_new_cashbacks": "Keine Cashbacks verfÃÂ¼gbar",
+    "no_redeemed_cashbacks": "Sie haben noch keine Vorteile in Anspruch genommen!",
+    "tab_new_cashbacks": "Neu",
+    "tab_redeemed_cashbacks": "EingelÃÂ¶st",
+    "thank_you": "Danke, dass Sie Ihr Bankkonto verbunden haben. Cashbacks erfolgen nach EinkÃÂ¤ufen bei unseren Partnern."
+  },
+  "link_account": {
+    "access_automatic": "Automatisch",
+    "access_standard": "X2A erzwingen",
+    "access_alternative": "FinTS erzwingen (manueller Abgleich)",
+    "advanced_options": "Optionen fÃÂ¼r Kontozugriff",
+    "bic": "BIC: ",
+    "blz": "BLZ: ",
+    "connection_failure": "Wir konnten Ihr Bankkonto mit dieser Methode nicht verbinden",
+    "no_accounts_linked": "Wenn Sie in den Genuss von Vorteilen kommen mÃÂ¶chten, mÃÂ¼ssen Sie ihr Bankkonto verknÃÂ¼pfen.",
+    "prompt_message": "Bitte Name der Bank, BIC oder BLZ eingeben",
+    "search_prompt": "Suche nach Banken...",
+    "select_message": "Bitte aus Ergebnissen auswÃÂ¤hlen",
+    "select": "WÃÂ¤hlen",
+    "title": "Bankkonto verknÃÂ¼pfen"
+  },
+  "login": {
+    "email_placeholder": "Email",
+    "forget_password_button": "Passwort vergessen?",
+    "generic_error": "Anmelden fehlgeschlagen",
+    "login_button": "Anmelden",
+    "no_account_text": "Noch kein Nutzerkonto?",
+    "page_title": "Anmelden",
+    "password_placeholder": "Passwort",
+    "remember_me": "Passwort merken",
+    "sign_up_button": "Registrieren"
+  },
+  "manage_bank_account": {
+    "edit_button": "Details",
+    "empty": "Sie haben keine verknÃÂ¼pften Bankkonten",
+    "new_bank_button": "Bankkonto verknÃÂ¼pfen",
+    "title": "Bankkonten",
+    "try_again": "Noch einmal versuchen"
+  },
+  "menu": {
+    "overview": "Ãbersicht",
+    "cashbacks": "Cashbacks",
+    "new_bank_connection": "Neue BankverknÃ¼pfung",
+    "existing_bank_connection": "BankverknÃ¼pfung",
+    "transactions": "Transaktionen",
+    "settings": "Profil & Einstellungen",
+    "faq": "HÃ¤ufige Fragen",
+    "log_out": "Abmelden"
+  },
+  "navigation": {
+    "code": "Code eingeben",
+    "credits": "Credits",
+    "faq": "Hilfe",
+    "imprint": "Impressum",
+    "logout": "Abmelden",
+    "privacy": "Datenschutzbestimmungen",
+    "profile": "Profil bearbeiten",
+    "support": "Kontakt",
+    "terms": "AGB"
+  },
+  "password": {
+    "bad": "Passwort unzureichend",
+    "basic": "Minimaler Passwortschutz",
+    "good": "Guter Passwortschutz ",
+    "high": "Hoher Passwortschutz"
+  },
+  "sign_up": {
+    "checkbox_text": "Durch das Setzen des HÃ¤kchens bestÃ¤tigen Sie die https://TermsOfUse und https://PrivacyPolicy",
+    "email_invalid": "Email muss '@' enthalten",
+    "email_placeholder": "Email",
+    "generic_error": "Registrierung fehlgeschlagen",
+    "get_started_button": "Jetzt loslegen",
+    "login_button": "Anmelden",
+    "page_title": "Registrieren",
+    "password_too_easy": "Das Passwort ist unsicher! Bitte Sonderzeichen, Zahlen oder mehr Zeichen verwenden!",
+    "passwords_dont_match": "PasswÃÂ¶rter stimmen nicht ÃÂ¼berein",
+    "privacy_policy": "Datenschutzbestimmungen",
+    "terms_of_use": "AGB"
+  },
+  "terms": {
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen"
+  },
+  "transactions": {
+    "fallback_account_name": "Bankkonto",
+    "title": "Buchungen",
+    "empty": "Buchungsliste ist leer"
+  },
+  "transaction_details": {
+    "account_name": "Kontoname",
+    "amount": "Betrag",
+    "booking_date": "Buchungsdatum",
+    "counterpart_iban": "IBAN der Gegenpartei",
+    "counterpart_name": "Name der Gegenpartei",
+    "mandate_reference": "Mandatsreferenz",
+    "purpose": "Verwendungszweck",
+    "title": "Buchungsdetails"
+  },
+  "video_ident": {
+    "error": "Oha, Identifikation fehlgeschlagen."
+  },
+  "walkthrough": {
+    "get_started": "Loslegen",
+    "messagePage1": "Sichern Sie sich Cashbacks und andere Vorteile fÃÂ¼r EinkÃÂ¤ufe und Trades bei Partnern wie HypoVereinsbank onemarkets",
+    "messagePage2": "Die Vorteile werden automatisch angezeigt kÃÂ¶nnen und mit einem einzigen Klick eingelÃÂ¶st werden",
+    "messagePage3": "Wir halten uns an hÃÂ¶chste Standards zu Datensicherheit und Datenschutz",
+    "titlePage1": "Cashback\nund Einkaufsvorteile",
+    "titlePage2": "Einfach\nund schnell",
+    "titlePage3": "Alle Daten\nsind sicher"
+  },
+  "vouchers": {
+    "copy_code": "Gutscheincode kopieren",
+    "copy_code_and_redeem": "Gutscheincode kopieren und einlÃÂ¶sen",
+    "details": "Details",
+    "discount": "ErmÃÂ¤ÃÅ¸igung",
+    "redeem_dialog_title": "Gutschein einlÃÂ¶sen",
+    "redeem": "EinlÃÂ¶sen",
+    "voucher_code_is": "Gutscheincode ist\n{{code}}\n\n(Code kopieren und auf Shop-Website einfÃÂ¼gen)"
+  }
+}
